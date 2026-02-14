@@ -1,0 +1,127 @@
+baseURL: 'https://gerry.github.io/efficiencyhub/'
+languageCode: zh-cn
+title: EfficiencyHub - OpenClaw与AI Bot专家
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production
+  title: EfficiencyHub
+  description: "OpenClaw完全指南、Bot租赁市场分析、AI自动化变现方法 - 专注AI Bot和效率工具"
+  keywords: [OpenClaw, Bot租赁, AI Agent, 自动化, 效率工具, BotaaS]
+  author: Gerry
+  
+  defaultTheme: auto
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: true
+  tocopen: true
+
+  assets:
+    disableHLJS: true
+    disableFingerprinting: true
+
+  label:
+    text: "EfficiencyHub"
+    icon: /apple-touch-icon.png
+    iconHeight: 35
+
+  profileMode:
+    enabled: false
+
+  homeInfoParams:
+    Title: "欢迎来到 EfficiencyHub 👋"
+    Content: >
+      OpenClaw完全指南 | Bot租赁市场分析 | AI自动化变现方法
+      
+      
+      专注于OpenClaw、AI Bot和自动化效率工具的深度内容。
+      
+      
+      从入门到精通，从理论到实战，从个人到企业。
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/"
+    - name: twitter
+      url: "https://twitter.com/"
+
+  analytics:
+    google:
+      SiteVerificationTag: "XYZabc"
+
+  cover:
+    hidden: false
+    hiddenInList: false
+    hiddenInSingle: false
+
+  editPost:
+    URL: "https://github.com/<path_to_repo>/content"
+    Text: "建议修改"
+    appendFilePath: true
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+menu:
+  main:
+    - identifier: home
+      name: 首页
+      url: /
+      weight: 10
+    - identifier: posts
+      name: 文章
+      url: /posts/
+      weight: 20
+    - identifier: categories
+      name: 分类
+      url: /categories/
+      weight: 30
+    - identifier: tags
+      name: 标签
+      url: /tags/
+      weight: 40
+    - identifier: search
+      name: 搜索
+      url: /search/
+      weight: 50
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
