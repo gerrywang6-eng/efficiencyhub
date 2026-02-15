@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>EfficiencyHub - OpenClaw与AI Bot专家</title>
+    <link>http://localhost:1313/efficiencyhub/</link>
+    <description>Recent content on EfficiencyHub - OpenClaw与AI Bot专家</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 15 Feb 2026 15:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/efficiencyhub/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenClaw完全指南：从入门到精通（2026最新版）</title>
+      <link>http://localhost:1313/efficiencyhub/posts/openclaw-complete-guide/</link>
+      <pubDate>Sat, 14 Feb 2026 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/efficiencyhub/posts/openclaw-complete-guide/</guid>
+      <description>OpenClaw完全指南 - 8000字深度教程，覆盖OpenClaw简介、使用方法、变现技巧、最佳实践。从入门到精通，一篇文章全掌握。</description>
+    </item>
+    <item>
+      <title>OpenClaw变现方法深度解析：15种赚钱方式全揭秘（2026实战版）</title>
+      <link>http://localhost:1313/efficiencyhub/posts/openclaw-monetization/</link>
+      <pubDate>Sat, 14 Feb 2026 11:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/efficiencyhub/posts/openclaw-monetization/</guid>
+      <description>OpenClaw变现方法深度解析 - 基于真实案例调研，详解15种经过验证的变现方式，月收入从数百到数万美元。包含技术服务、自动化工具、效率提升三大类型。</description>
+    </item>
+    <item>
+      <title>OpenClaw实战案例：从0到月入$5000的完整路径（2026真实记录）</title>
+      <link>http://localhost:1313/efficiencyhub/posts/openclaw-case-study-0-to-5k/</link>
+      <pubDate>Sun, 15 Feb 2026 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/efficiencyhub/posts/openclaw-case-study-0-to-5k/</guid>
+      <description>OpenClaw实战案例深度解析 - 记录从0到月入$5000的完整过程，包含选品策略、技能开发、客户获取、收入增长的每一步细节。真实数据、真实经验、真实避坑指南。</description>
+    </item>
+    <item>
+      <title>Bot租赁市场深度分析：千亿市场的机会与挑战（2026）</title>
+      <link>http://localhost:1313/efficiencyhub/posts/bot-rental-market-analysis/</link>
+      <pubDate>Sat, 14 Feb 2026 12:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/efficiencyhub/posts/bot-rental-market-analysis/</guid>
+      <description>Bot租赁市场深度分析 - 10000字行业研究报告。覆盖市场规模、用户画像、竞争格局、商业模式、发展趋势和投资机会。2026年全球市场规模$28亿，中国市场¥30亿。</description>
+    </item>
+    <item>
+      <title>OpenClaw新手最佳启动方案：从零到月入过万的实战路径</title>
+      <link>http://localhost:1313/efficiencyhub/posts/openclaw-beginner-guide/</link>
+      <pubDate>Sun, 15 Feb 2026 14:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/efficiencyhub/posts/openclaw-beginner-guide/</guid>
+      <description>OpenClaw新手最佳启动方案 - 基于15个变现方案的深度评估，推荐最适合新手的AI文案代工流水线方案，7天启动，月入过万实战路径。</description>
+    </item>
+    <item>
+      <title>OpenClaw常见问题完全手册：50&#43;问题一站式解决（2026最新版）</title>
+      <link>http://localhost:1313/efficiencyhub/posts/openclaw-faq/</link>
+      <pubDate>Sun, 15 Feb 2026 15:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/efficiencyhub/posts/openclaw-faq/</guid>
+      <description>OpenClaw常见问题完全手册 - 覆盖安装部署、配置、功能使用、性能优化、安全权限等8大类50&#43;常见问题，2026年最新版。</description>
+    </item>
+  </channel>
+</rss>

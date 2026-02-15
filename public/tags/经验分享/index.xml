@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>经验分享 on EfficiencyHub - OpenClaw与AI Bot专家</title>
+    <link>http://localhost:1313/efficiencyhub/tags/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/</link>
+    <description>Recent content in 经验分享 on EfficiencyHub - OpenClaw与AI Bot专家</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 15 Feb 2026 10:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/efficiencyhub/tags/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenClaw实战案例：从0到月入$5000的完整路径（2026真实记录）</title>
+      <link>http://localhost:1313/efficiencyhub/posts/openclaw-case-study-0-to-5k/</link>
+      <pubDate>Sun, 15 Feb 2026 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/efficiencyhub/posts/openclaw-case-study-0-to-5k/</guid>
+      <description>OpenClaw实战案例深度解析 - 记录从0到月入$5000的完整过程，包含选品策略、技能开发、客户获取、收入增长的每一步细节。真实数据、真实经验、真实避坑指南。</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>完全指南 on EfficiencyHub - OpenClaw与AI Bot专家</title>
+    <link>http://localhost:1313/efficiencyhub/tags/%E5%AE%8C%E5%85%A8%E6%8C%87%E5%8D%97/</link>
+    <description>Recent content in 完全指南 on EfficiencyHub - OpenClaw与AI Bot专家</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 14 Feb 2026 10:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/efficiencyhub/tags/%E5%AE%8C%E5%85%A8%E6%8C%87%E5%8D%97/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenClaw完全指南：从入门到精通（2026最新版）</title>
+      <link>http://localhost:1313/efficiencyhub/posts/openclaw-complete-guide/</link>
+      <pubDate>Sat, 14 Feb 2026 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/efficiencyhub/posts/openclaw-complete-guide/</guid>
+      <description>OpenClaw完全指南 - 8000字深度教程，覆盖OpenClaw简介、使用方法、变现技巧、最佳实践。从入门到精通，一篇文章全掌握。</description>
+    </item>
+  </channel>
+</rss>

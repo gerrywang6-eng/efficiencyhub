@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>新手入门 on EfficiencyHub - OpenClaw与AI Bot专家</title>
+    <link>http://localhost:1313/efficiencyhub/tags/%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8/</link>
+    <description>Recent content in 新手入门 on EfficiencyHub - OpenClaw与AI Bot专家</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 15 Feb 2026 14:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/efficiencyhub/tags/%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenClaw新手最佳启动方案：从零到月入过万的实战路径</title>
+      <link>http://localhost:1313/efficiencyhub/posts/openclaw-beginner-guide/</link>
+      <pubDate>Sun, 15 Feb 2026 14:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/efficiencyhub/posts/openclaw-beginner-guide/</guid>
+      <description>OpenClaw新手最佳启动方案 - 基于15个变现方案的深度评估，推荐最适合新手的AI文案代工流水线方案，7天启动，月入过万实战路径。</description>
+    </item>
+  </channel>
+</rss>

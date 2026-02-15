@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>故障排查 on EfficiencyHub - OpenClaw与AI Bot专家</title>
+    <link>http://localhost:1313/efficiencyhub/tags/%E6%95%85%E9%9A%9C%E6%8E%92%E6%9F%A5/</link>
+    <description>Recent content in 故障排查 on EfficiencyHub - OpenClaw与AI Bot专家</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 15 Feb 2026 15:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/efficiencyhub/tags/%E6%95%85%E9%9A%9C%E6%8E%92%E6%9F%A5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenClaw常见问题完全手册：50&#43;问题一站式解决（2026最新版）</title>
+      <link>http://localhost:1313/efficiencyhub/posts/openclaw-faq/</link>
+      <pubDate>Sun, 15 Feb 2026 15:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/efficiencyhub/posts/openclaw-faq/</guid>
+      <description>OpenClaw常见问题完全手册 - 覆盖安装部署、配置、功能使用、性能优化、安全权限等8大类50&#43;常见问题，2026年最新版。</description>
+    </item>
+  </channel>
+</rss>
